@@ -1,0 +1,21 @@
+[{
+    "productId": "2",
+    "productName": "Garden Cart",
+    "productCode": "GDC-342",
+    "releaseDate": "March-18-2019",
+    "description": "15 Gallon carpacity rolling Garden",
+    "price": 32.95,
+    "starRating": 4,
+    "imageUrl": "../../../assets/images/garden-cart.png"
+  },
+  {
+    "productId": "4",
+    "productName": "Hammer",
+    "productCode": "TBX-0048",
+    "releaseDate": "April-20-2019",
+    "description": "Curved claw stel hammer",
+    "price": 10.45,
+    "starRating": 4.8,
+    "imageUrl": "../../../assets/images/hammer-emoji-tool-whatsapp-sms-hammer.jpg"
+  }
+]
